@@ -1,3 +1,16 @@
+## Why?
+> [restart-app](http://www.packal.org/workflow/restart-app) is too slow.
+
+## Changes
+> Change workflow role, `kill` to `restart`
+
+## installation
+> Download `Restart App:Process.alfredworkflow` and Open    
+
+----
+
+----
+
 # Description
 Kill Process is an Alfred 2 workflow that makes it easy to kill misbehaving processes. It is, in essence, a way to easily find processes by name and kill them using `kill -9`.
 
